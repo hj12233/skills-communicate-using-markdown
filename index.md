@@ -6,3 +6,8 @@
 ```lua
 local variable = 3*3
 ```
+
+- [x] Item A
+- [ ] Item B
+- [X] Item C
+- [ ] Item D
